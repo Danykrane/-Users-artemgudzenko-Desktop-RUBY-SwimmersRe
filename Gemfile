@@ -18,7 +18,7 @@ end
 gem 'jquery'
 
 gem 'paperclip'
-
+gem 'sqlite3'
 
 
 gem 'bootsnap'
